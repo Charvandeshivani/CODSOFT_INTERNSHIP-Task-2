@@ -87,11 +87,10 @@ This project helped me understand:
 
 ## 👩‍💻 Author
 
-**Rutuja Bhagatsing**
+**Shivani**
 
-GitHub: https://github.com/your-github-username
-
-LinkedIn: https://linkedin.com/in/your-linkedin-profile
+-GitHub: https://github.com/Charvandeshivani
+- LinkedIn:https://www.linkedin.com/in/shivani-charvande/
 
 ---
 
